@@ -1,8 +1,5 @@
 {
   "compilerOptions": {
-    "target": "ES2020", // Or later versions that include optional chaining
-  },
-  "compilerOptions": {
     "target": "ES2020",
     "useDefineForClassFields": true,
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
